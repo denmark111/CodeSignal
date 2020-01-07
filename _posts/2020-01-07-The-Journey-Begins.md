@@ -1,0 +1,47 @@
+---
+layout: post
+title: Intro - The Journey Begins
+---
+
+## 1. add
+인자로 주어진 두 수를 더해 반환합니다
+
+작성한 코드
+``` Python
+def add(param1, param2):
+    return param1 + param2
+```
+
+## 2. centuryFromYear
+인자로 주어진 연도를 세기로 변환합니다.
+
+작성한 코드
+``` Python
+def centuryFromYear(year):
+    firstHalf = int(year / 100)
+    lastHalf = year % 100
+    if lastHalf > 0:
+        firstHalf += 1
+        
+    return firstHalf
+```
+
+추천수 많았던 코드
+``` Python
+def centuryFromYear(year):
+    return (year + 99) // 100
+
+```
+
+## 3. checkPalindrome
+인자로 주어진 문자열이 회문인지 체크합니다.
+
+작성한 코드
+``` Python
+
+```
+
+추천수 많았던 코드
+``` Python
+
+```
