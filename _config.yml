@@ -10,6 +10,7 @@ description:         'A reserved <a href="http://jekyllrb.com" target="_blank">J
 url:                 'https://denmark111.github.io'
 baseurl:             '/CodeSignal'
 paginate:            5
+repo:                'https://github.com/denmark111/CodeSignal'
 
 # About/contact
 # author:
