@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: TO-DOs - \#1
 ---
 
