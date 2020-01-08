@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TO-DOs - \#1
+title: to-do - #1
 ---
 
 ## Blog page
